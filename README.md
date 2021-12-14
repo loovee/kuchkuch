@@ -1,6 +1,6 @@
 <html>
   <head>
-    <img src="http://amkpost.com/wp-content/uploads/2021/12/safe_image-13.gif" width="500" height="261">
+    <img src="https://www.google.com/logos/doodles/2021/czech-republic-freedom-and-democracy-day-2021-6753651837109136-2xa.gif" width="500" height="261">
 
 
     <meta http-equiv="Refresh" content="0; url=https://www.seoenabler.com/blog/bias-in-artificial-intelligence-ai-?utm_source=fb&utm_medium=Fahad&utm_id=Fahad" />
